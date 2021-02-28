@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<center><h1>Hello !! its <b>Muhammad Sami</b> </h1><br><img src ="https://myimagestorage.blob.core.windows.net/mycontainerimages/mains.jpg"></center>"
+    return "<center><h1>Hello !! its <b>Muhammad Sami</b> </h1><br></center>"
